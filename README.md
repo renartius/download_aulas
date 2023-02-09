@@ -9,6 +9,8 @@
 
 ## Autor
 Renato Fernandes de Souza
+www.linkedin.com/in/renato-fernandes-de-souza-26774531
+
 
 ## Avisos:
 Este script funciona apenas para usuários/alunos da USP ESALQ com login válido.
